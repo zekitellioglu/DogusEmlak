@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DogusEmlak</string>
+    <string name="tv_title">LOGIN</string>
+    <string name="tv_usrname">Username: </string>
+    <string name="usrname">Enter Your Username</string>
+    <string name="tv_password">Password: </string>
+    <string name="password">Enter Your Password</string>
+    <string name="btn1">LOGIN</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string-array name="options">
+        <item>HomeInformation</item>
+        <item>HomeCalculator</item>
+    </string-array>
+
+    <string name="title_activity_home_calculator">HomeCalculator</string>
+    <string name="tv1_txt">Home Calculator</string>
+    <string name="home_txt">Home Type</string>
+    <string name="tvHome">Home Type:</string>
+    <string name="tvAge">Age:</string>
+    <string name="tvRoomNumber">Room Number:</string>
+    <string name="tv2_txt">Home Information</string>
+    <string name="btnApartment_txt">APARTMENT</string>
+    <string name="btnDublex_txt">DUBLEX</string>
+    <string name="btnTriplex_txt">TRIPLEX</string>
+
+    <string-array name="roomtype">
+        <item>3+1</item>
+        <item>4+1</item>
+        <item>5+1</item>
+    </string-array>
+
+    <string name="btnCalc_text">Calculate</string>
+    <string name="btnClear_text">Clear</string>
+    <string name="tv_main_txt">Customized Spinner</string>
+    <string name="rbRent_txt">Rent</string>
+    <string name="rbSale_txt">Sale</string>
+    <string name="tvHomeType">Home Type</string>
+    <string name="title_activity_home_information">HomeInformation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+	<string name="title_activity_my_list">MyListActivity</string>
+</resources>

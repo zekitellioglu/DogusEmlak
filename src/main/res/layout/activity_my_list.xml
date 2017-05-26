@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relativeLayout1"
+    tools:context="${packageName}.${activityClass}" >
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="10dp"
+        android:textSize="24sp" >
+    </TextView>
+
+    <ImageView
+        android:id="@+id/arrow"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/right_arrow" >
+    </ImageView>
+
+</RelativeLayout>
